@@ -1,7 +1,7 @@
 
 ### Développement du script par Gudule ###
 
-setwd("~/Data/Sync_Mega/Enseignement/Master/M1/Systèmes_complexes/USV_data")
+# setwd("~/Data/Sync_Mega/Enseignement/Master/M1/Systèmes_complexes/USV_data")
 
 fichiers<-list.files() #les fichiers du répertoire courant.
 
